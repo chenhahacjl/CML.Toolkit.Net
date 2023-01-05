@@ -7,10 +7,4 @@
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="Logger\**" />
-    <EmbeddedResource Remove="Logger\**" />
-    <None Remove="Logger\**" />
-  </ItemGroup>
-
 </Project>
