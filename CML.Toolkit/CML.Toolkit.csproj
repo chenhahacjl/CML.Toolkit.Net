@@ -7,4 +7,12 @@
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="_Version\UpdateRecord" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="_Version\UpdateRecord" />
+  </ItemGroup>
+
 </Project>
