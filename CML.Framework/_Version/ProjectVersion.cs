@@ -47,7 +47,7 @@ namespace CML.Toolkit._Version
         /// <summary>
         /// 更新日志文件 
         /// </summary>
-        protected override string UpdateRecordFile => "CML.Toolkit._Version.UpdateRecord";
+        protected override string UpdateRecordFile => "CML.Framework._Version.UpdateRecord";
 
         #endregion
     }

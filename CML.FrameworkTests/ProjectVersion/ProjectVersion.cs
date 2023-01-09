@@ -46,7 +46,7 @@ namespace CML.Toolkit.ProjectVersion.Tests
         /// <summary>
         /// 更新日志文件 
         /// </summary>
-        protected override string UpdateRecordFile => "CML.ToolkitTests.ProjectVersion.UpdateRecord";
+        protected override string UpdateRecordFile => "CML.FrameworkTests.ProjectVersion.UpdateRecord";
 
         #endregion
 

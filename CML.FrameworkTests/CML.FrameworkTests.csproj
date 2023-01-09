@@ -20,11 +20,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CML.Toolkit\CML.Toolkit.csproj" />
+    <EmbeddedResource Include="ProjectVersion\UpdateRecord" />
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="ProjectVersion\UpdateRecord" />
+    <ProjectReference Include="..\CML.Framework\CML.Framework.csproj" />
   </ItemGroup>
 
 </Project>

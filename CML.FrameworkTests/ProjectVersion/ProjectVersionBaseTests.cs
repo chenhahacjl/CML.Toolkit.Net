@@ -17,7 +17,7 @@ namespace CML.Toolkit.ProjectVersion.Tests
                 $"VersionType:Alpha{Environment.NewLine}" +
                 $"TypeVersion:1{Environment.NewLine}" +
                 $"Assembly:{Assembly.GetExecutingAssembly().GetName()}{Environment.NewLine}" +
-                $"UpdateRecordFile:CML.ToolkitTests.ProjectVersion.UpdateRecord{Environment.NewLine}" +
+                $"UpdateRecordFile:CML.FrameworkTests.ProjectVersion.UpdateRecord{Environment.NewLine}" +
                 $"UpdateRecord:UpdateRecordTest";
 
             ProjectVersion projectVersion = new();
