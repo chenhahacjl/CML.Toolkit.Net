@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace CML.Toolkit.ProjectVersion.Tests
+namespace CML.Framework.ProjectVersion.Tests
 {
     /// <summary>
     /// 项目版本信息

@@ -1,6 +1,6 @@
 ﻿using System.Runtime.CompilerServices;
 
-namespace CML.Toolkit.Logger
+namespace CML.Framework.Logger
 {
     /// <summary>
     /// 日志记录器接口

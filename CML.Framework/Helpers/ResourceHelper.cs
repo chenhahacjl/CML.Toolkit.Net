@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using System.Text;
 
-namespace CML.Toolkit.Helpers
+namespace CML.Framework.Helpers
 {
     /// <summary>
     /// 资源帮助类

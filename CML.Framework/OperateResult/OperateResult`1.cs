@@ -1,6 +1,6 @@
-﻿using CML.Toolkit.Helpers;
+﻿using CML.Framework.Helpers;
 
-namespace CML.Toolkit
+namespace CML.Framework
 {
     /// <summary>
     /// 带数据的操作结果

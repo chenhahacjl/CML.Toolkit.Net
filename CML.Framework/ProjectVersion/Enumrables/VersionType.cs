@@ -1,4 +1,4 @@
-﻿namespace CML.Toolkit.ProjectVersion
+﻿namespace CML.Framework.ProjectVersion
 {
     /// <summary>
     /// 工程版本类型

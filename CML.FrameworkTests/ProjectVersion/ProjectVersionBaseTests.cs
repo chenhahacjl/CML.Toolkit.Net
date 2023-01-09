@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Reflection;
 
-namespace CML.Toolkit.ProjectVersion.Tests
+namespace CML.Framework.ProjectVersion.Tests
 {
     [TestClass()]
     public class ProjectVersionBaseTests

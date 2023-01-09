@@ -1,4 +1,4 @@
-﻿namespace CML.Toolkit.Logger
+﻿namespace CML.Framework.Logger
 {
     /// <summary>
     /// 日志等级

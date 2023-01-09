@@ -1,7 +1,7 @@
-﻿using CML.Toolkit.Helpers;
+﻿using CML.Framework.Helpers;
 using System.Runtime.CompilerServices;
 
-namespace CML.Toolkit.Logger
+namespace CML.Framework.Logger
 {
     /// <summary>
     /// 基础控制台日志记录器

@@ -1,4 +1,4 @@
-﻿namespace CML.Toolkit
+﻿namespace CML.Framework
 {
     /// <summary>
     /// 操作结果扩展方法

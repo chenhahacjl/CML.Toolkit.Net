@@ -1,4 +1,4 @@
-﻿namespace CML.Toolkit.Logger
+﻿namespace CML.Framework.Logger
 {
     /// <summary>
     /// 记录异常信息委托

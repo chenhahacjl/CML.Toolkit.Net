@@ -1,7 +1,7 @@
-﻿using CML.Toolkit.ProjectVersion;
+﻿using CML.Framework.ProjectVersion;
 using System.Reflection;
 
-namespace CML.Toolkit._Version
+namespace CML.Framework._Version
 {
     /// <summary>
     /// 项目版本信息

@@ -1,4 +1,4 @@
-﻿namespace CML.Toolkit.Helpers
+﻿namespace CML.Framework.Helpers
 {
     /// <summary>
     /// 获取异常消息委托

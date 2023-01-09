@@ -1,7 +1,7 @@
-﻿using CML.Toolkit.Helpers;
+﻿using CML.Framework.Helpers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace CML.Toolkit.Tests
+namespace CML.Framework.Tests
 {
     [TestClass()]
     public class ExceptionHelperTests
